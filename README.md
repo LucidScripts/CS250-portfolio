@@ -1,2 +1,10 @@
 # CS250-portfolio
-A portfolio project.
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs is about turning real-world goals into something a team can build and test. I do this by breaking needs into user stories: “As a [type of user], I want [goal] so that [reason].” From there, I add acceptance criteria so the team knows exactly what “done” looks like. This keeps everyone aligned, helps with prioritization, and makes it easier to validate the result. In short, user stories translate what the end user wants into clear, actionable work items—and that’s how you end up with a program that actually solves the right problem.
+
+# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+My approach is a light hybrid: I start with a short, waterfall-style planning pass to set scope, risks, and constraints, then I switch to iterative Agile delivery. The plan keeps me on track; the iterations keep me flexible. In practice, that means working from a prioritized backlog, time-boxing work into short sprints, and doing quick feedback loops. The processes I want to lean on more in future group projects are daily stand-ups for fast coordination, user stories with solid acceptance criteria, sprint reviews for stakeholder feedback, and retrospectives to improve the way we work. I also value a clear Definition of Done and basic CI/testing so quality stays consistent as things change.
+
+# What does it mean to be a good team member in software development?
+Being a good teammate means staying open-minded, bringing a steady work ethic, and being willing to help. I’ve seen how a fresh set of eyes can unstick a bug in minutes—and I’ve done the same for others. Good teammates communicate early, document decisions where the work lives (not scattered across chats), give and receive constructive code reviews, and ask for help before a small issue becomes a blocker. In my opinion, the combination of curiosity, follow-through, and collaboration is what makes the team effective and the work more enjoyable.
